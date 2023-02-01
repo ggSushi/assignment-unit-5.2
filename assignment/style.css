@@ -4,11 +4,16 @@ header {
     text-align: center;
 }
 
+/*
+Used an id for the h1 Unit text
+*/
 #unitHeader {
     font-style: italic;
     color: rgb(0, 211, 211);
 }
 
+/*
+*/
 .nameRecordShop {
     font-style: italic;
     font-weight: 1;
