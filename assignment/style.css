@@ -13,6 +13,7 @@ Used an id for the h1 Unit text
 }
 
 /*
+Used a class for the h2 Glonel's Record Shop text
 */
 .nameRecordShop {
     font-style: italic;
@@ -31,6 +32,9 @@ main {
     padding: 1em;
 }
 
+/*
+decided to mess around with the stylings of the <p> element
+*/
 p {
     text-align: center;
     font-style: italic;
